@@ -3,7 +3,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/choitaehoon/instagram-spring-cloud-config.git
+          uri: https://github.com/choitaehoon/instagram-config.git
 
 server:
   port: 8888
